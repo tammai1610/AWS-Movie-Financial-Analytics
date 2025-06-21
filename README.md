@@ -9,7 +9,7 @@
 
 **A serverless data analytics pipeline delivering actionable insights from $310+ billion in movie industry financial data**
 
-[📊 Dashboard](#dashboard-insights) • [📋 Technical Report](TECHNICAL_REPORT.md) • [🎯 Business Intelligence](#business-intelligence)
+[📊 Dashboard](#dashboard-insights) • [📋 Technical Report](TECHNICAL_REPORT.md)
 
 </div>
 
