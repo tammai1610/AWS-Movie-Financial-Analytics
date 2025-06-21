@@ -9,7 +9,7 @@
 
 **A serverless data analytics pipeline delivering actionable insights from $310+ billion in movie industry financial data**
 
-[📊 Dashboard](https://github.com/tammai1610/AWS-Movie-Financial-Analytics/blob/main/Movie_Analytics_Dashboard.pdf) • [📋 Technical Report](TECHNICAL_REPORT.md)
+[📊 Dashboard](https://github.com/tammai1610/AWS-Movie-Financial-Analytics/blob/main/Movie_Analytics_Dashboard.pdf) • [📋 Technical Report](TECHNICAL_REPORT.md) (Updating)
 
 </div>
 
